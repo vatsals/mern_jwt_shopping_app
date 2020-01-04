@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://user:user123@ds253348.mlab.com:53348/merntutorialapp",
+    "jwtSecret": "jwt_mernSecret"
+}
